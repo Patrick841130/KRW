@@ -1,0 +1,10 @@
+[[CURRENCIES]]
+currency = "KRW"
+issuer = "r9yAC7qFpew2ds7KStHs85z2ddf2T81bUB"
+
+[[TOKENS]]
+currency = "KRW"
+issuer = "r9yAC7qFpew2ds7KStHs85z2ddf2T81bUB"
+name = "KRW Token"
+description = "KRW is a cutting-edge stablecoin built on the XRP Ledger, pegged 1:1 to the Korean Won. Designed as a digital replacement for traditional KRW, it empowers seamless, low-cost global transactions while maintaining fiat-like stability. This innovative currency bridges legacy finance with blockchain, fostering economic inclusion and efficiency in South Korea's evolving digital economy"
+image_url = "https://patrick841130.github.io/KRW/KRW IMG.jpeg"
